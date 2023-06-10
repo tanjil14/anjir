@@ -1,0 +1,10 @@
+.carousel .carousel-status {
+  display: none;
+}
+
+.carousel .carousel-slider {
+  padding: 0;
+}
+.carousel .thumbs-wrapper {
+  margin: 0;
+}
