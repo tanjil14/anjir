@@ -1,4 +1,5 @@
 import Ideology from "../components/Ideology/Ideology";
+import Initiative from "../components/Initiative/Initiative";
 import Leadership from "../components/Leadership/Leadership";
 import Navbar from "../components/Navbar/Navbar";
 import OngoingEvent from "../components/OngoingEvent/OngoingEvent";
@@ -19,6 +20,7 @@ const Home = () => {
         <Leadership/>
         <UpcomingEvent/>
         <OngoingEvent/>
+        <Initiative/>
       </main>
     </>
   );
