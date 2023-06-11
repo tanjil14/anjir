@@ -1,5 +1,5 @@
 # Anjirliton
-[Live Link](https://github.com/tanjil14/anjir)
+[Live Link](https://anjirliton.netlify.app/)
 ## How to create:
  I used the Vite CLI (Command Line Interface) tool. First, I made sure to have Node.js installed on my machine. Then, I installed Vite globally by running the command npm install -g create-vite.
 
